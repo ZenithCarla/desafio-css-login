@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: 0.41px;
+    color: #000000;
+    display: block;
+    margin-top: 128px;
+    margin-left: 16px;
+    margin-bottom: 12px;
+    width: 82px;
+    height: 41px;
+}
+
+.paragraph {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.41px;
+    color: rgba(0, 0, 0, 0.5);
+    display: block;
+    text-align: left;
+    margin-left: 16px;
+}
+
+.block {
+    display: block;
+}
+
+input {
+    display: block;
+    width: 343px;
+    height: 48px;
+    background: #F2F2F7;
+    border-radius: 6px;
+    padding-left: 14px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.41px;
+    color: #929292;
+    border: none;
+    margin: 102px auto 0 auto;
+}
+
+.password {
+    margin-top: 12px;
+}
+
+.forgot {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.41px;
+    color: #007AFF;
+    margin-top: 17px;
+    display: block;
+    text-align: right;
+    margin: 17px 35px 20px auto;
+    text-decoration: none;
+}
+
+button {
+    display: block;
+    margin: 33px auto 204px auto;
+    width: 343px;
+    height: 48px;
+    background: rgba(0, 0, 0, 0.94);
+    border-radius: 10px;
+    border: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.41px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);
+}
+
+.account {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.51);
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.cor {
+    color: #007AFF;
+}
+
+
+
+
+
+
